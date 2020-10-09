@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">RecyclerViewDemo</string>
+    <string name="fruitimage" />
+    <string name="fruitTime">TextView</string>
+    <string name="fruitChat">TextView</string>
 </resources>
